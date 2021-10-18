@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4522],{14522:function(e,t,u){"use strict";u.r(t);var a=u(85893),c=u(48150);u(1374);t.default=function(){return(0,a.jsx)(c.Ee,{alt:"Background Image",src:"/background-image.jpg",style:{layout:"fill",objectFit:"cover"}})}}}]);
